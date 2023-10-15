@@ -1,0 +1,21 @@
+/* style.css */
+
+* {
+    font-family:Arial, Helvetica, sans-serif; 
+    background-color: rgba(191, 216, 223, 0.9)
+
+}
+
+.heading {
+    font: size 900px;
+    color: rgb(175, 85, 17);
+    text-align: center;
+}
+
+.title-style {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+div {
+    text-align: center;
+}
