@@ -14,7 +14,7 @@
 
 .card {
     width: 800px;
-    height: 210px;
+    height: 270px;
     background-color: rgba(234, 243, 246, 0.9);
     margin: 16px auto;
     padding: 8px;
@@ -27,9 +27,9 @@
     padding: 16px;
 }
 
-.content {
+.content a {
     margin-bottom: 8px;
-    padding: 16px 16px;
+    padding: 1em;
     font-size: large;
     display: block;
 }
